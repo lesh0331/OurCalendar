@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- 회색 -->
     <color name="gray">#888</color>
+    <!-- 파란색 -->
     <color name="blue">#0000FF</color>
+    <!-- 검은색 -->
     <color name="black">#FF000000</color>
+    <!-- 흰색 -->
     <color name="white">#FFFFFFFF</color>
 </resources>
